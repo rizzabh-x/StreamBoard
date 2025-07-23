@@ -13,7 +13,7 @@ const { Server } = require("socket.io");
 
 const io = new Server(server, {
   cors: {
-    origin: "", // your frontend
+    origin: "http://localhost:5173/", // your frontend
     methods: ["GET", "POST"],
     credentials: true,
   },
@@ -21,7 +21,7 @@ const io = new Server(server, {
 
 app.use(
   cors({
-    origin: "",
+    origin: "http://localhost:5173/",
     credentials: true,
   })
 );

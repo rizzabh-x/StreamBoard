@@ -210,13 +210,3 @@ Special thanks to:
 
 - **Canvas HTML5** for powerful drawing capabilities:
   - [Canvas API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
-
-### 🚀 Technical Expertise:
-
-Frontend: React.js, TypeScript, Tailwind CSS, HTML5 Canvas, Next.js
-Backend: Node.js, Express.js, Socket.io, RESTful APIs
-Real-time Technologies: WebSockets, Real-time synchronization, Live collaboration
-Tools & Platforms: Git, GitHub, Vercel, Docker, VS Code
-LinkedIn: Connect with www.linkedin.com/in/tanishq-tyagi-1b5234289
-<br><br/>
-GitHub: Follow @tanishq-t
